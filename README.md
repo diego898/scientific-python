@@ -11,6 +11,7 @@ Assuming you've already installed [Continuum's Anaconda](https://store.continuum
 
 ```bash
 git clone https://github.com/revolunet/sublimetext-markdown-preview.git
+cd scientific-python
 ipython notebook
 ```
 
