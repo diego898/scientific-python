@@ -1,2 +1,5 @@
 # gitignore
 scratch.ipynb
+
+# checkpoints dir
+.ipynb_checkpoints/
