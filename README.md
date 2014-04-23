@@ -19,4 +19,10 @@ Your browser should fire up with the notebook ready for use!
 
 
 ## Notebook Viewer
-You can also just *view* the notebook online (not edit/execute) by using the fantastic [IPython Notebook Viewer](http://nbviewer.ipython.org/). You can view this specific notebook by [clicking here](http://nbviewer.ipython.org/github/diego898/scientific-python/blob/master/Scientific%20Computing%20with%20Python.ipynb).
+You can also just *view* the notebook online (not edit/execute) by using the fantastic IPython Notebook Viewer. You can view this specific collection of notebooks by clicking here: [Scientific Python](http://nbviewer.ipython.org/github/diego898/scientific-python/).
+
+Or individual lectures at:
+* [Lecture 0 - Scientific Computing with Python](http://nbviewer.ipython.org/github/diego898/scientific-python/blob/master/Lecture%200%20-%20Scientific%20Computing%20with%20Python.ipynb)
+* [Lecture 1 - NumPy](http://nbviewer.ipython.org/github/diego898/scientific-python/blob/master/Lecture%201%20-%20NumPy.ipynb)
+* [Lecture 2 - SciPy](http://nbviewer.ipython.org/github/diego898/scientific-python/blob/master/Lecture%202%20-%20SciPy.ipynb)
+* [Lecture 3 - Matplotlib](http://nbviewer.ipython.org/github/diego898/scientific-python/blob/master/Lecture%203%20-%20Matplotlib.ipynb)
